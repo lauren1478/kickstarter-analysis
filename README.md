@@ -11,7 +11,7 @@ The purpose of this analysis was to look at past kickstarter campaigns and their
 ### Analysis of Outcomes Based on Launch Date
 Theater campaigns were most successful when originally launched in May and June and least successful when launched in November through January. For those that are not successful, Theater campaigns overall fail signifigantly more than being canceled, when launched in any given month of the year. 
 
-See chart.
+Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 Kickstarter campaigns were most successful when the goal amount was below $15,000 and least successful when the goal amount was over 45,000. 
