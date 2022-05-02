@@ -11,12 +11,12 @@ The purpose of this analysis was to look at past kickstarter campaigns and their
 ### Analysis of Outcomes Based on Launch Date
 Theater campaigns were most successful when originally launched in May and June and least successful when launched in November through January. For those that are not successful, Theater campaigns overall fail signifigantly more than being canceled, when launched in any given month of the year. 
 
-Theater_Outcomes_vs_Launch.png
+![Alt text](https://github.com/lauren1478/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Kickstarter campaigns were most successful when the goal amount was below $15,000 and least successful when the goal amount was over 45,000. 
 
-See chart.
+
 
 ### Challenges and Difficulties Encountered
 I did not encounter any challenges. One potential challenge that I can see is not setting up the countifs formula correctly because it becomes more complicated the more criteria you have to put in it. A greater than or equal to sign could be easily mis-typed or the cell ranges could shift and be off if you just copied and pasted formulas over.
