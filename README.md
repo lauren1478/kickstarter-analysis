@@ -16,7 +16,7 @@ Theater campaigns were most successful when originally launched in May and June 
 ### Analysis of Outcomes Based on Goals
 Kickstarter campaigns were most successful when the goal amount was below $15,000 and least successful when the goal amount was over 45,000. 
 
-
+![Alt text](https://github.com/lauren1478/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I did not encounter any challenges. One potential challenge that I can see is not setting up the countifs formula correctly because it becomes more complicated the more criteria you have to put in it. A greater than or equal to sign could be easily mis-typed or the cell ranges could shift and be off if you just copied and pasted formulas over.
